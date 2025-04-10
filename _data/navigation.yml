@@ -1,7 +1,9 @@
 main:
   - title: "Research"
-    url: /categories/
+    url: /research/
   - title: "C.V."
-    url: /c.v./
+    url: /cv/
   - title: "About"
     url: /index/
+ - title: "Teaching"
+    url: /teaching/
