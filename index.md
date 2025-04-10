@@ -15,8 +15,3 @@ I am a Ph.D. Candidate in the Politics Department. My research explores the subn
 ### Contact
 - Email: [your.email@ucsc.edu](mailto:your.email@ucsc.edu)
 - [CV](assets/Tiago_Tasca_CV.pdf) | [Research](research/)
-
-### About Me
-I research the intersection of politics and public health, focusing on disinformation, vaccine hesitancy, and health policy.
-
-![Tiago Tasca](assets/images/tiago.jpg)
