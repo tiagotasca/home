@@ -14,5 +14,5 @@ I am a Ph.D. Candidate in the Politics Department. My research explores the subn
 
 ### Contact
 - Email: [your.email@ucsc.edu](mailto:your.email@ucsc.edu)
-- [CV](assets/images/TTASCA_CV(4).pdf) | [Research](research/)
+- [CV](assets/images/TTASCA_CV (4).pdf) | [Research](research/)
 
