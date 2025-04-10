@@ -57,22 +57,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Tasca"
+  name   : "Tiago Tasca"
   avatar : "/assets/images/ttasca_2024_hs.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
 
 footer:
   links:
@@ -81,17 +76,6 @@ footer:
       url: "https://github.com/"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -102,7 +86,8 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /C.V./
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /Teaching/
+  
